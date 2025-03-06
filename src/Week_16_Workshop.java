@@ -1,8 +1,8 @@
 import java.util.Scanner;
 //10
-public class Main {
+public class Week_16_Workshop {
     public static void main(String[] args) {
-        Main mainObj = new Main();
+        Week_16_Workshop mainObj = new Week_16_Workshop();
 //        all comparision method call nested
 //        mainObj.concat2String();
     reverseString();
