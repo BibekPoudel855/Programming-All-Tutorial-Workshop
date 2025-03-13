@@ -1,7 +1,9 @@
+package Week_17;
+
 import java.util.ArrayList;
 import java.util.Iterator;
 
-public class Week_17_Tutorial1 {
+public class Week_17_Tutorial1_Arraylist {
     public static void main(String[] args) {
         ArrayList fruitList = new ArrayList();
         fruitList.add("apple");
