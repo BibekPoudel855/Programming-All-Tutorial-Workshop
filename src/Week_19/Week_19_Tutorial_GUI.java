@@ -32,6 +32,6 @@ public class Week_19_Tutorial_GUI {
     }
     public static void main(String[] args) {
         Week_19_Tutorial_GUI GUIButtonCounter = new Week_19_Tutorial_GUI();
-        GUIButtonCounter.makeFrame("Counter On Click");
+        GUIButtonCounter.  makeFrame("Counter On Click");
     }
 }
