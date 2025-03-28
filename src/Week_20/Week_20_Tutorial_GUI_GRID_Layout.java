@@ -55,7 +55,7 @@ public class Week_20_Tutorial_GUI_GRID_Layout {
             int firstNumber = Integer.parseInt(firstNumberField.getText());
             int lastNumber = Integer.parseInt(lastNumberField.getText());
             int sub = firstNumber - lastNumber;
-            JOptionPane.showMessageDialog(null,"Substraction is" + " " + sub);
+            JOptionPane.showMessageDialog(null,"Subtraction is" + " " + sub);
         });
         Multiply.addActionListener(e -> {
             int firstNumber = Integer.parseInt(firstNumberField.getText());
