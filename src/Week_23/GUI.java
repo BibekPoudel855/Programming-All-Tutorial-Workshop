@@ -1,4 +1,4 @@
-package Week23;
+package Week_23;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;

@@ -1,4 +1,4 @@
-package Week_23.UpDownCast;
+package Week_24.UpDownCast;
 
 import java.util.ArrayList;
 

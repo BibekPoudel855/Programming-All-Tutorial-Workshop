@@ -1,4 +1,4 @@
-package Week_23.UpDownCast;
+package Week_24.UpDownCast;
 public class Cat extends Animal{
     public Cat() {
         System.out.println("Cons Cat");

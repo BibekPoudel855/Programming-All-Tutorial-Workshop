@@ -1,4 +1,4 @@
-package Week23.Week23Assignment;
+package Week_23.Week23Assignment;
 
 import java.awt.*;
 import java.util.ArrayList;
